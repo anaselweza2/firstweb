@@ -1,0 +1,88 @@
+.container{
+	margin:auto;
+	width:1170px;
+}
+/* start header */
+.slider{
+	height:600px;
+	background-image:url(matthewljacobson.com_hikerj-1170x612.jpg);
+	background-size:cover;}
+.slider .intro{
+	padding-top:200px;
+	text-align:center;}
+.slider h2{
+	margin:0px auto;
+	width:650px;
+	color:#FFF;
+	font-size:50px;
+	border-top:3px #FFFFFF solid;
+	border-bottom:3px #FFFFFF solid;
+	
+}
+.slider .intro button{
+  padding:15px;
+  background:none;
+  margin-top:20px;
+  border:solid #FFF 1px;
+  color:#FFF;
+  
+}
+.navbar{
+	background-color:#333;
+	padding:10px 0;}
+.navbar p{
+	display:inline-block;
+	color:#FFF;}
+.navbar p span{
+	color:#090;}
+.navbar ul{
+	float:right;
+	list-style:none;}
+.navbar ul li{
+	float:left;
+	margin-left:20px;
+	color:#FFF;}
+		
+.navbar ul li:hover{
+	color:#090;
+	cursor:pointer;
+}
+/*---End Header--*/
+
+/*---Start Features--*/
+ .features{
+	 
+	 padding-top:20px;
+	 padding-bottom:20px;
+	 overflow:hidden;
+ }
+  .features .values{
+	 
+	  float:left;
+	  width:33.333333%;
+	  overflow:hidden;
+	  }
+.features .values p,
+.features .values h3 {
+	margin:15px;
+}
+.features .values p{
+	line-height:1.4;
+	color:#999;
+}
+/*---End Features*/
+
+
+/*--start aboutme--*/
+.aboutme{
+	height:350px;
+	background-color:#CCC;
+	overflow:hidden;
+	
+}
+.aboutme .image{
+	float:left;
+}.aboutme .info{
+	float:left;
+	
+/*--start aboutme--*/
